@@ -1,1 +1,1 @@
-# VSS-Tarkastuslista-
+# VSS-Tarvikelista-
